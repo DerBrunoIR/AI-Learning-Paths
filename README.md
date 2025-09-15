@@ -1,17 +1,17 @@
 # Project AI Path
 
 The aim of this project is to identify the common learning paths that TU Berlin students follow to study AI.
-Data got collected manually from the learning platform ISIS (9.2025) and covers the period from 2020 onwards.
+Data got collected manually from the learning platform ISIS (9.2025) and the oldest term goes back to 2020.
 For each of the following courses, we combined the participants lists from the past years into a larger combined participant list that spans the entire periode and we analyze these combined lists. Results are below.
 
-- Machine Intelligence 1 (MI1)
-- Machine Intelligence 2 (MI2)
-- Machine Learning 1 (ML1)
-- Machine Learning 2 (ML2)
-- Deep Learning 1 (DL1)
-- Deep Learning 2 (DL2)
-- Adversarial Machine Learning (AML)
-- Architecture of Machine Learning Systems (AMLS)
+- Machine Intelligence 1 (MI1, 5 terms)
+- Machine Intelligence 2 (MI2, 6 terms)
+- Machine Learning 1 (ML1, 4 terms)
+- Machine Learning 2 (ML2, 6 terms)
+- Deep Learning 1 (DL1, 3 terms)
+- Deep Learning 2 (DL2, 1 term)
+- Adversarial Machine Learning (AML, 1 term)
+- Architecture of Machine Learning Systems (AMLS, 3 terms)
 
 Technically, every student can enroll in these courses but not all participants of a given course pass the final exam.
 Therefore, the number of participants can be higher in comparision to the number of successful exams.
@@ -42,11 +42,15 @@ The largestes intersections in participation are: (MI1, MI2, 1122), (ML1, ML2, 1
 
 ### Conditional Probability Matrix
 <img src="output/conditional_probability_matrix.png" alt="Conditional Probability Matrix" width="85%"/>
-Someone who participates in MI2 also participates with a probability of 76% in MI1. 
-Whereas someone who participates in MI1 has only a probability of 54% for participating in MI2.
-Less than 7% of students who participated in MI1, MI2, ML1 or ML2 are participating in AML. 
+Students in MI2 also participate with a probability of 76% in MI1. 
+Whereas someone in MI1 has only a probability of 54% for participating in MI2.
+Less than 7% of students in either MI1, MI2, ML1 or ML2 are participating in AML. 
 
-The highest probabilities are: (MI2, MI1, 76%), (DL1, ML1, 68%), (ML2, ML1, 64%).
+The highest probabilities are: (MI2, MI1, 76%), (DL1, ML1, 68%), (ML1, ML2, 64%).
 
-Until now, the AML course had only one iteration.
-
+# Conclusion
+In total there are almost 4300 different participants.
+Around 2100 of all participants are enrolled in MI1 and ML1. 
+Only 25% of participants of ML1 do actually pass the exam.
+The most popular course combinations are: (MI1, MI2), (ML1, ML2) and (ML1, DL1).
+76% of people in MI2 are also enrolled in MI1 but only 54% of people in MI1 are enroleld in MI2.
