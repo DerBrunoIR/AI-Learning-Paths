@@ -58,6 +58,9 @@ Students in MI2 also participate with a probability of 76% in MI1.
 Whereas someone in MI1 has only a probability of 54% for participating in MI2.
 Less than 7% of students in either MI1, MI2, ML1 or ML2 are participating in AML. 
 
+Every seconds ML1 student is enrolled in ML2 and every thrid ML1 studen is enrolled in DL1.
+But only 9% of ML1 students are enrolled in DL2.
+
 The highest probabilities are: (MI2, MI1, 76%), (DL1, ML1, 68%), (ML1, ML2, 64%).
 
 # Conclusion
@@ -66,6 +69,5 @@ Around 2100 of all participants are enrolled in MI1 and ML1.
 Only 25% of participants of ML1 do actually pass the exam.
 The most popular course combinations are: (MI1, MI2), (ML1, ML2) and (ML1, DL1).
 76% of people in MI2 are also enrolled in MI1 but only 54% of people in MI1 are enroleld in MI2.
-Every seconds ML1 student is enrolled in ML2 and every thrid ML1 studen is enrolled in DL1.
-But only 9% of ML1 students are enrolled in DL2.
+
 
