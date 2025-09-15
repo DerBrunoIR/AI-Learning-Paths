@@ -66,3 +66,6 @@ Around 2100 of all participants are enrolled in MI1 and ML1.
 Only 25% of participants of ML1 do actually pass the exam.
 The most popular course combinations are: (MI1, MI2), (ML1, ML2) and (ML1, DL1).
 76% of people in MI2 are also enrolled in MI1 but only 54% of people in MI1 are enroleld in MI2.
+Every seconds ML1 student is enrolled in ML2 and every thrid ML1 studen is enrolled in DL1.
+But only 9% of ML1 students are enrolled in DL2.
+
