@@ -41,7 +41,7 @@ Available exam data. Students may failed multiple exams but can only pass an exa
 
 ### Participation vs Passed Exames
 <img src="output/participation_vs_passed_exams.png" alt="Participation vs Passed Exames" width="85%"/>
-For the first term, no exam data was available. 
+For the first term of ML1, no exam data was available. 
 Participation is 3.6-4.3 times highest than the number of passed exams.
 
 ### Jaccard Index of Course Combinations
