@@ -15,7 +15,8 @@ Data about exams is very limited though.
 
 For the following modules, we collected the participation lists of all available releated courses.  
 Then, for each module we constructed a set of participants.
-To ensure the course data is not abused, all data about individuals has been encrypted.
+We analyzed these sets.
+To ensure course data is not abused, all raw data has been encrypted.
 
 - Machine Intelligence 1 (MI1, 5 terms)
 - Machine Intelligence 2 (MI2, 6 terms)
