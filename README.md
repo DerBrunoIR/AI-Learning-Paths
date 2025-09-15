@@ -14,7 +14,7 @@ Therefore, the number of participants can be higher in comparision to the number
 Data about exams is very limited though.
 
 For the following modules, we collected the participation lists of all available releated courses.  
-Then, for each module we constructed a set of participants.
+Then, for each module we constructed a set of participants over all those lists.
 We analyzed these sets.
 To ensure course data is not abused, all raw data has been encrypted.
 
