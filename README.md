@@ -46,7 +46,7 @@ Participation is 3.6-4.3 times highest than the number of passed exams.
 
 ### Jaccard Index of Course Combinations
 <img src="output/jaccard_index_of_course_combinations.png" alt="Jaccard Index of Course Combinations" width="85%"/>
-The top 3 most similar courses according to participation are: (MI1, MI2, .46), (ML1, ML2, .38), (ML1, DL1, .3), (ML2, DL1, .27), (MI1, ML1, .27).
+The top 3 modules with highest number of interescting participants are: (MI1, MI2, .46), (ML1, ML2, .38), (ML1, DL1, .3), (ML2, DL1, .27), (MI1, ML1, .27).
 
 ### Combination Matrix
 <img src="output/cobination_matrix.png" alt="Combination Matrix" width="85%"/>
