@@ -1,0 +1,52 @@
+# Project AI Path
+
+The aim of this project is to identify the common learning paths that TU Berlin students follow to study AI.
+Data got collected manually from the learning platform ISIS (9.2025) and covers the period from 2020 onwards.
+For each of the following courses, we combined the participants lists from the past years into a larger combined participant list that spans the entire periode and we analyze these combined lists. Results are below.
+
+- Machine Intelligence 1 (MI1)
+- Machine Intelligence 2 (MI2)
+- Machine Learning 1 (ML1)
+- Machine Learning 2 (ML2)
+- Deep Learning 1 (DL1)
+- Deep Learning 2 (DL2)
+- Adversarial Machine Learning (AML)
+- Architecture of Machine Learning Systems (AMLS)
+
+Technically, every student can enroll in these courses but not all participants of a given course pass the final exam.
+Therefore, the number of participants can be higher in comparision to the number of successful exams.
+Data about exam data is very limited.
+
+## Visualizations
+
+### Number of participants by Course
+<img src="output/participants_by_course.png" alt="Participants by Course" width="85%"/>
+Machine Intelligence 1, Machine Learning 1 and Machine Learning 2 have the highest participation.
+
+### Exam Results by Course and Term
+<img src="output/exam_results_by_course_and_term.png" alt="Exam Results by Course and Term" width="85%"/>
+Available exam data. Students may failed multiple exams but can only pass an exam once. 
+
+### Participation vs Passed Exames
+<img src="output/participation_vs_passed_exams.png" alt="Participation vs Passed Exames" width="85%"/>
+For the first term, no exam data was available. 
+Participation is 3.6-4.3 times highest than the number of passed exams.
+
+### Jaccard Index of Course Combinations
+<img src="output/jaccard_index_of_course_combinations.png" alt="Jaccard Index of Course Combinations" width="85%"/>
+The top 3 most similar courses according to participation are: (MI1, MI2, .46), (ML1, ML2, .38), (ML1, DL1, .3), (ML2, DL1, .27), (MI1, ML1, .27).
+
+### Combination Matrix
+<img src="output/cobination_matrix.png" alt="Combination Matrix" width="85%"/>
+The largestes intersections in participation are: (MI1, MI2, 1122), (ML1, ML2, 1011), (MI1, ML1, 890), (ML1, DL1, 731), (MI1, ML2, 672).
+
+### Conditional Probability Matrix
+<img src="output/conditional_probability_matrix.png" alt="Conditional Probability Matrix" width="85%"/>
+Someone who participates in MI2 also participates with a probability of 76% in MI1. 
+Whereas someone who participates in MI1 has only a probability of 54% for participating in MI2.
+Less than 7% of students who participated in MI1, MI2, ML1 or ML2 are participating in AML. 
+
+The highest probabilities are: (MI2, MI1, 76%), (DL1, ML1, 68%), (ML2, ML1, 64%).
+
+Until now, the AML course had only one iteration.
+
