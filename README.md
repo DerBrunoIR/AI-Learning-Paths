@@ -1,4 +1,4 @@
-# Project AI Path
+# Project AI Learning Paths
 
 The aim of this project is to identify the common learning paths that TU Berlin students follow to study AI.
 Data got collected manually from the learning platform ISIS (9.2025) and the oldest term goes back to 2020.
