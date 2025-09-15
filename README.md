@@ -7,7 +7,7 @@ Each module defines some learning goals.
 All courses are implementing a module for a given term.
 On the learning platform ISIS, students can enroll in such courses.
 If a studen enrolles into a course, the first and last name of that student are noted on that courses participation list.
-This entry is removed if the studen leves the course.
+This entry is removed if the student leaves the course.
 Many students don't leave courses.
 Technically, every student can enroll in a course, but not all participants of a given course pass the final exam.
 Therefore, the number of participants can be higher in comparision to the number of successful exams.
