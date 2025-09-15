@@ -2,7 +2,20 @@
 
 The aim of this project is to identify the common learning paths that TU Berlin students follow to study AI.
 Data got collected manually from the learning platform ISIS (9.2025) and the oldest term goes back to 2020.
-For each of the following courses, we combined the participants lists from the past terms into a larger combined participant list and we analyze these combined lists. Results are below.
+
+Each module defines some learning goals.
+All courses are implementing a module for a given term.
+On the learning platform ISIS, students can enroll in such courses.
+If a studen enrolles into a course, the first and last name of that student are noted on that courses participation list.
+This entry is removed if the studen leves the course.
+Many students don't leave courses.
+Technically, every student can enroll in a course, but not all participants of a given course pass the final exam.
+Therefore, the number of participants can be higher in comparision to the number of successful exams.
+Data about exams is very limited though.
+
+For the following modules, we collected the participation lists of all available releated courses.  
+Then, for each module we constructed a set of participants.
+To ensure the course data is not abused, all data about individuals has been encrypted.
 
 - Machine Intelligence 1 (MI1, 5 terms)
 - Machine Intelligence 2 (MI2, 6 terms)
@@ -13,9 +26,7 @@ For each of the following courses, we combined the participants lists from the p
 - Adversarial Machine Learning (AML, 1 term)
 - Architecture of Machine Learning Systems (AMLS, 3 terms)
 
-Technically, every student can enroll in these courses but not all participants of a given course pass the final exam.
-Therefore, the number of participants can be higher in comparision to the number of successful exams.
-Data about exam data is very limited.
+Below are our results.
 
 ## Visualizations
 
