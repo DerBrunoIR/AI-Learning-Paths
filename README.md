@@ -2,7 +2,7 @@
 
 The aim of this project is to identify the common learning paths that TU Berlin students follow to study AI.
 Data got collected manually from the learning platform ISIS (9.2025) and the oldest term goes back to 2020.
-For each of the following courses, we combined the participants lists from the past years into a larger combined participant list that spans the entire periode and we analyze these combined lists. Results are below.
+For each of the following courses, we combined the participants lists from the past terms into a larger combined participant list and we analyze these combined lists. Results are below.
 
 - Machine Intelligence 1 (MI1, 5 terms)
 - Machine Intelligence 2 (MI2, 6 terms)
