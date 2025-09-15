@@ -65,7 +65,8 @@ The highest probabilities are: (MI2, MI1, 76%), (DL1, ML1, 68%), (ML1, ML2, 64%)
 
 # Conclusion
 In total there are almost 4300 different participants.
-Around 2100 of all participants are enrolled in MI1 and ML1. 
+Almost 50% of participants are enrolled in MI1. 
+Almost 50% of participants are enrolled in ML1.  
 Only 25% of participants of ML1 do actually pass the exam.
 The most popular course combinations are: (MI1, MI2), (ML1, ML2) and (ML1, DL1).
 76% of people in MI2 are also enrolled in MI1 but only 54% of people in MI1 are enroleld in MI2.
