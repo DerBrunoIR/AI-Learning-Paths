@@ -31,11 +31,11 @@ Below are our results.
 
 ## Visualizations
 
-### Number of participants by Course
+### Number of participants by Module
 <img src="output/participants_by_course.png" alt="Participants by Course" width="85%"/>
 Machine Intelligence 1, Machine Learning 1 and Machine Learning 2 have the highest participation.
 
-### Exam Results by Course and Term
+### Exam Results by Course
 <img src="output/exam_results_by_course_and_term.png" alt="Exam Results by Course and Term" width="85%"/>
 Available exam data. Students may failed multiple exams but can only pass an exam once. 
 
@@ -44,13 +44,13 @@ Available exam data. Students may failed multiple exams but can only pass an exa
 For the first term of ML1, no exam data was available. 
 Participation is 3.6-4.3 times highest than the number of passed exams.
 
-### Jaccard Index of Course Combinations
-<img src="output/jaccard_index_of_course_combinations.png" alt="Jaccard Index of Course Combinations" width="85%"/>
-The top 5 modules with highest number of interescting participants are: (MI1, MI2, .46), (ML1, ML2, .38), (ML1, DL1, .3), (ML2, DL1, .27), (MI1, ML1, .27).
-
 ### Combination Matrix
 <img src="output/cobination_matrix.png" alt="Combination Matrix" width="85%"/>
 The largestes intersections in participation are: (MI1, MI2, 1122), (ML1, ML2, 1011), (MI1, ML1, 890), (ML1, DL1, 731), (MI1, ML2, 672).
+
+### Jaccard Index of Module Combinations
+<img src="output/jaccard_index_of_course_combinations.png" alt="Jaccard Index of Course Combinations" width="85%"/>
+The top 5 modules with highest number of interescting participants are: (MI1, MI2, .46), (ML1, ML2, .38), (ML1, DL1, .3), (ML2, DL1, .27), (MI1, ML1, .27).
 
 ### Conditional Probability Matrix
 <img src="output/conditional_probability_matrix.png" alt="Conditional Probability Matrix" width="85%"/>
