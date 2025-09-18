@@ -10,7 +10,6 @@ If a student enrolles into a course, the first and last name of that student are
 This entry is removed if the student leaves the course.
 Many students don't leave courses.
 Technically, students can enroll themselves in any course.
-Therefore, the number of participants can be higher in comparision to the number of successful exams.
 Data about exams is very limited though.
 Typically, students dont participate in modules while missing major prerequisites for that module.
 
