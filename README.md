@@ -5,7 +5,7 @@ Data got collected manually from the learning platform ISIS (9.2025) and the old
 
 Each module defines some learning goals at TU Berlin.
 All courses are implementing a module for a given term.
-On the learning platform ISIS, students can enroll in such courses.
+On the learning platform ISIS, students can enroll in courses.
 If a student enrolles into a course, the first and last name of that student are noted on that courses participation list.
 This entry is removed if the student leaves the course.
 Many students don't leave courses.
