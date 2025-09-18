@@ -3,7 +3,7 @@
 The aim of this project is to identify the common learning paths students choose to learn about AI at TU Berlin.
 Data got collected manually from the learning platform ISIS (9.2025) and the oldest term goes back to 2020.
 
-Each module defines some learning goals.
+Each module defines some learning goals at TU Berlin.
 All courses are implementing a module for a given term.
 On the learning platform ISIS, students can enroll in such courses.
 If a student enrolles into a course, the first and last name of that student are noted on that courses participation list.
