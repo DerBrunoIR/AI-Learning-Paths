@@ -10,7 +10,7 @@ If a student enrolles into a course, the first and last name of that student are
 This entry is removed if the student leaves the course.
 Many students don't leave courses.
 Technically, students can enroll themselves in any course.
-Data about exams is very limited though.
+Data about course exams is very limited though.
 Typically, students dont participate in modules while missing major prerequisites for that module.
 
 For the following modules, we collected the participation lists of all available releated courses.  
