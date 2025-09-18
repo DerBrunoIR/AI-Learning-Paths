@@ -29,7 +29,7 @@ All collected data has been encrypted to ensure no personal information is leake
 
 
 <img src="output/participants_over_time.png" alt="participants over time" width="85%"/>
-For each semester we counted the number of participants. Be aware that participants can enroll them self in multiple courses of the same module.
+For each course we counted the number of participants. Participants can enroll them self in multiple courses of the same module.
 
 Below are further results.
 
