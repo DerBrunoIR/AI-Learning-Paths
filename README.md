@@ -27,6 +27,9 @@ All collected data has been encrypted to ensure no personal information is leake
 - Adversarial Machine Learning (AML, 1 term)
 - Architecture of Machine Learning Systems (AMLS, 3 terms)
 
+
+<img src="output/participants_over_time.png" alt="participants over time" width="85%"/>
+
 Below are our results.
 
 ## Visualizations
