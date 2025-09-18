@@ -29,7 +29,7 @@ All collected data has been encrypted to ensure no personal information is leake
 
 
 <img src="output/participants_over_time.png" alt="participants over time" width="85%"/>
-Participants can enroll them self in multiple courses of the same module.
+Participants can enroll themself in multiple courses of the same module.
 
 <img src="output/number_of_enrolls_by_course.png" alt="participants over time" width="85%"/>
 
