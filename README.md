@@ -9,9 +9,10 @@ On the learning platform ISIS, students can enroll in such courses.
 If a student enrolles into a course, the first and last name of that student are noted on that courses participation list.
 This entry is removed if the student leaves the course.
 Many students don't leave courses.
-Technically, every student can enroll in a course, but not all participants of a given course pass the final exam.
+Technically, students can enroll themselves in any course.
 Therefore, the number of participants can be higher in comparision to the number of successful exams.
 Data about exams is very limited though.
+Typically, students dont participate in modules while missing major prerequisites for that module.
 
 For the following modules, we collected the participation lists of all available releated courses.  
 Then, for each module we constructed a set of participants over all lists.
